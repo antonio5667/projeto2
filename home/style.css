@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    max-width: 70%;
+    margin: auto;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #f8f8f8;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
